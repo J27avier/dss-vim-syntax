@@ -7,7 +7,7 @@ These files enable basic syntax highlighting in vim.
 ## Installation instructions for Linux:
 1. Copy the file `/syntax/dss.vim` to `~/.vim/syntax/`
 1. Copy the file `/ftdetect/dss.vim` to `~/.vim/ftdetect/`
-1. You may have to create these folders if they don't already exist 
+1. You may have to create these directories if they don't already exist 
 
 And that's it!
 
