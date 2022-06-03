@@ -4,7 +4,7 @@ This breaks the workflow for some delvelopment styles.
 
 These files enable basic syntax highlighting in vim.
 
-## Installation instructions for Linux
+## Installation instructions for Linux:
 1. Copy the file `/syntax/dss.vim` to `~/.vim/syntax/`
 1. Copy the file `/ftdetect/dss.vim` to `~/.vim/ftdetect/`
 
